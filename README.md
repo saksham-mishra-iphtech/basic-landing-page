@@ -1,22 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-
-
-Awesome! 🚀  
-Based on your description, here's a **beautiful, clean, and attractive README** for your project (with emojis, symbols, and a professional vibe):
-
----
-
 # ✨ User Dashboard Web App ✨
 
 A **responsive** and **interactive** landing page built using **React**, **Redux**, and **Tailwind CSS**, where users can **Sign Up**, **Log In**, and access a **personal dashboard** with a **Profile**, **Calendar**, **Graph**, and **Weekly/Monthly To-Do List** — all in **one place**! 📚🧩
