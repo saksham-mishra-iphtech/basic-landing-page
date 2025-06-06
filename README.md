@@ -58,8 +58,13 @@ Once logged in, users can:
 
 ---
 
-## 📸 VideoLink:-  https://go.screenpal.com/watch/cTfuhgnQhVj
-## images :- a2z-utilsPdf.pdf
+## 📸 VideoLink:-
+
+https://go.screenpal.com/watch/cTfuhgnQhVj
+
+## 📸 Gif:-
+![Demo](https://i.imgflip.com/9wevcc.gif)
+
 
 
 
